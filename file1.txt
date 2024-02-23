@@ -1,1 +1,2 @@
 Halo Alterra Academy
+Sekarang kita belajar Git Management
