@@ -1,2 +1,3 @@
 Halo Alterra Academy
 Sekarang kita belajar Git Management
+Ini merupakan data dari file 1
