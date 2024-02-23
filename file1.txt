@@ -1,3 +1,4 @@
 Halo Alterra Academy
 Sekarang kita belajar Git Management
 ini adalah file yang di edit dari branch feature_b
+Ini merupakan data dari file 1
